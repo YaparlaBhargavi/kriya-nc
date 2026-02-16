@@ -1,0 +1,48 @@
+body {
+  background: linear-gradient(to right, #5f72bd, #9b23ea);
+  font-family: Arial;
+  padding: 30px;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  color: white;
+}
+
+.card {
+  background: white;
+  color: black;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.error {
+  background: red;
+  color: white;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
